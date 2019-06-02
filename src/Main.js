@@ -8,7 +8,6 @@ import {
 import Home from "./Components/home";
 import Resume from "./Components/resume";
 import Contact from "./Components/contat";
-import "./CSS/index.css";
 
 class Main extends Component {
     render() {
@@ -17,7 +16,7 @@ class Main extends Component {
             <div>
                 <h1>Personal Website</h1>
                 <ul className="header">
-                    <li><NavLink to="/">Home</NavLink></li>
+                    <li><NavLink to="/" >Home</NavLink></li>
                     <li><NavLink to="/resume">Resume</NavLink></li>
                     <li><NavLink to="/contact">Contact</NavLink></li>
                 </ul>
