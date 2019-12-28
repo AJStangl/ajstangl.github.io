@@ -1,9 +1,5 @@
 import React, { Component } from "react";
-import {
-    Route,
-    NavLink,
-    HashRouter
-} from "react-router-dom";
+import { Route, NavLink, HashRouter } from "react-router-dom";
 import Home from "./Components/home";
 import Resume from "./Components/resume";
 import Contact from "./Components/contat";
