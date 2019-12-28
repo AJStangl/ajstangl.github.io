@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e4eaab8c-6500-4af0-82b7-b138cd1779ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +111,7 @@
       <updated>1557075567113</updated>
       <workItem from="1557075568456" duration="3452000" />
       <workItem from="1559474126968" duration="8063000" />
-      <workItem from="1577539747592" duration="1679000" />
+      <workItem from="1577539747592" duration="2761000" />
     </task>
     <task id="LOCAL-00001" summary="Performing overhaul">
       <created>1559476483641</created>
@@ -139,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559484291074</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- Using materialUI">
+      <created>1577541466674</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577541466674</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +151,8 @@
     <MESSAGE value="Performing overhaul" />
     <MESSAGE value="Fixed this" />
     <MESSAGE value="- Fixed some of the CSS and added font awesome." />
-    <option name="LAST_COMMIT_MESSAGE" value="- Fixed some of the CSS and added font awesome." />
+    <MESSAGE value="- Using materialUI" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Using materialUI" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="239" key="#Inspections" timestamp="1577540046130">
