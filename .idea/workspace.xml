@@ -156,6 +156,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="239" key="#Inspections/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1577540046130" />
+    <state x="583" y="89" key="CommitChangelistDialog2" timestamp="1577541465952">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="583" y="89" key="CommitChangelistDialog2/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1577541465952" />
     <state width="1899" height="396" key="GridCell.Tab.0.bottom" timestamp="1577539991296">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -172,6 +176,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="396" key="GridCell.Tab.0.right/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1577539991296" />
+    <state x="552" y="310" key="Vcs.Push.Dialog.v2" timestamp="1577541468574">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="310" key="Vcs.Push.Dialog.v2/0.0.1920.1160/1920.0.1920.1160@0.0.1920.1160" timestamp="1577541468574" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
